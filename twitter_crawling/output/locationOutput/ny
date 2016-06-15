@@ -1,0 +1,11 @@
+CLINTON	43888(KeyWord Num)
+CRUZ	24409(KeyWord Num)
+KASICH	4128(KeyWord Num)
+SANDERS	16489(KeyWord Num)
+TRUMP	87532(KeyWord Num)
+TotalNum	176446
+CLINTON	25.0%(KeyWord Rate)
+SANDERS	9.0%(KeyWord Rate)
+CRUZ	14.0%(KeyWord Rate)
+KASICH	2.0%(KeyWord Rate)
+TRUMP	50.0%(KeyWord Rate)
